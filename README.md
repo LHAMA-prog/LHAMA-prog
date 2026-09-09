@@ -77,32 +77,8 @@ Meu objetivo é iniciar minha carreira na área de **Tecnologia da Informação*
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LHAMA-prog&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHAMA-prog&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LHAMA-prog&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💻 Desenvolvendo conhecimento. Construindo soluções.
-
-**Sistemas de Informação • Banco de Dados • Desenvolvimento • Cibersegurança**
 
 </div>
