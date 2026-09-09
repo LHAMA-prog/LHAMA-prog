@@ -7,10 +7,7 @@
 **Desenvolvimento de Software • Banco de Dados • Cibersegurança**
 
 <br>
-
-<a href="https://github.com/LHAMA-prog">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+  
 <a href="https://linkedin.com/in/isac-alves-571301380">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
