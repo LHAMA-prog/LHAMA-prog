@@ -25,7 +25,7 @@
 
 Tenho interesse em **Desenvolvimento de Software, Banco de Dados e Cibersegurança**, buscando desenvolver uma base sólida em programação, sistemas e infraestrutura.
 
-Atualmente venho aprimorando meus conhecimentos em **C, C#, Python, SQL, Banco de Dados e Linux**, sempre buscando aplicar os conceitos aprendidos na prática.
+Atualmente venho aprimorando meus conhecimentos em **C, C#, Python, SQL e Linux**, sempre buscando aplicar os conceitos aprendidos na prática.
 
 Meu objetivo é iniciar minha carreira na área de **Tecnologia da Informação**, adquirindo experiência profissional e evoluindo continuamente como desenvolvedor.
 
