@@ -31,59 +31,6 @@ Meu objetivo é iniciar minha carreira na área de **Tecnologia da Informação*
 
 ---
 
-# 🛠️ Tecnologias
-
-## 💻 Linguagens
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-</p>
-
----
-
-# 🗄️ Banco de Dados
-
-<div align="center">
-
-### SQL • PostgreSQL • Modelagem de Dados
-
-<p>
-
-<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-</p>
-
-</div>
-
-Tenho interesse especialmente em:
-
-- 🗃️ Modelagem de bancos de dados
-- 🔎 Consultas SQL
-- 🔗 Relacionamentos entre tabelas
-- 📊 Organização e manipulação de dados
-- 🧩 Estruturas e lógica de bancos de dados
-- 🐘 PostgreSQL
-
----
-
-# 🔐 Cibersegurança
-
-Área de interesse profissional, com foco na construção de uma base sólida em:
-
-- 🐧 Linux
-- 🌐 Redes e infraestrutura
-- 🔒 Segurança da informação
-- 🛡️ Boas práticas de segurança
-- 💻 Sistemas Operacionais
-
----
-
 # 🖥️ Sistemas & Ferramentas
 
 <p align="left">
