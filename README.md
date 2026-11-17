@@ -11,7 +11,7 @@
 
 **Sistemas de Informação · UFU · Minas Gerais**
 
-*Sempre aprendendo.*
+*Aprendendo um pouco sobre tudo.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/isac8alves)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isacalves209@gmail.com)
@@ -22,7 +22,7 @@
 
 ## Sobre mim
 
-Estudante de Sistemas de Informação na UFU com foco em desenvolvimento backend. Também estou explorando o front-end, para entender as aplicações de ponta a ponta, da interface ao banco de dados. Busco uma oportunidade de estágio na área de desenvolvimento.
+Estudante de Sistemas de Informação na UFU com foco em desenvolvimento back-end. Também estou explorando o front-end, para entender as aplicações de ponta a ponta, da interface ao banco de dados. Busco uma oportunidade de estágio na área de desenvolvimento.
 
 Atualmente explorando:
 
