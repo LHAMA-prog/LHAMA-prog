@@ -67,12 +67,10 @@ Atualmente explorando:
 
 ## Projetos
 
-### Cartão de visitas digital
-Cartão pessoal em HTML e CSS, com paleta de cores própria, fonte do Google Fonts e espaçamentos com Box Model. Publicado no GitHub Pages e adaptado para celular.
+### Módulos Techers
+Repositório com os projetos que desenvolvi nos módulos da Techers, cada um em sua pasta e com todo o histórico de commits preservado. Publicado no GitHub Pages, com uma página inicial que leva a cada módulo.
 
-[Ver online](https://lhama-prog.github.io/techers-cartao/) · [Código](https://github.com/LHAMA-prog/techers-cartao)
+[Ver online](https://lhama-prog.github.io/MODULOSTECHERS/) · [Código](https://github.com/LHAMA-prog/MODULOSTECHERS)
 
-### Página "Sobre mim"
-Página em HTML semântico, com formulário de contato acessível (labels ligados aos campos), validada no W3C e versionada com Git desde o primeiro arquivo.
-
-[Código](https://github.com/LHAMA-prog/techers-sobre-mim)
+- **Módulo 1 · Página "Sobre mim":** página em HTML semântico, com formulário de contato acessível (labels ligados aos campos), validada no W3C e versionada com Git desde o primeiro arquivo. [Ver online](https://lhama-prog.github.io/MODULOSTECHERS/Modulo1-sobre-mim/)
+- **Módulo 2 · Cartão de visitas digital:** cartão pessoal em HTML e CSS, com paleta de cores própria, fonte do Google Fonts e espaçamentos com Box Model. Adaptado para celular. [Ver online](https://lhama-prog.github.io/MODULOSTECHERS/Modulo2-cartao/)
